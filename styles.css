@@ -16,15 +16,15 @@ img {
    overflow: auto;
 }
 .logoimg {
-    height: 8rem;
-    width: 8rem;
+    height: 6rem;
+    width: 6rem;
     float: left;    
 }
 .logotxt{
     margin-top: 2.5%;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 4em;
+    font-size: 3em;
     float: center;
 }
 .offer {
@@ -35,13 +35,13 @@ img {
 .offertxt {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 41px;
+    font-size: 35px;
     margin-left: 10%;
     margin-top: 10%;
 }
 
 .offerimg {
-    width: 25rem;
+    width: 20rem;
     margin-left: 10% ; /* Прижимаем фото к правому краю контейнера */
     margin-right: 10%;
 }
@@ -59,24 +59,24 @@ img {
     display: flex;
 }
 .bir{
-    width: 24rem;
-    height: 32rem;
+    width: 20rem;
+    height: 26rem;
     margin-left: 3%;
 }
 .ush{
-    width: 24rem;
-    height: 32rem;
+    width: 20rem;
+    height: 26rem;
     margin-left: 3%;
 }
 .eki{
-    width: 24rem;
-    height: 32rem;
+    width: 20rem;
+    height: 26rem;
     margin-left: 3%;
 }
 .phototxt{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 45px;
+    font-size: 40px;
     float: right;
     margin-left: 3%;
     margin-right: 4%;
@@ -91,27 +91,27 @@ img {
 .work{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 545;
-    font-size: 32px;
+    font-size: 28px;
     margin-left: 3%;
     margin-top: 4%;
 }
 .artyk {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 545;
-    font-size: 32px;
+    font-size: 28px;
     margin-right: 12%;
     margin-top: 2.5%;
 }
 .otzyv{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 545;
-    font-size: 32px;
+    font-size: 28px;
     margin-left: 2%;
     margin-top: 3%;
     margin-right: 35%;
     
 }
 .contact {
-    padding: 40px;
+    padding: 35px;
     text-align: center;
 }
